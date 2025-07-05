@@ -1,6 +1,6 @@
 # Neural Network Implementation in Zig
 
-A simple neural network implementation from scratch in Zig
+A simple neural network implementation in Zig
 
 ## Features
 
